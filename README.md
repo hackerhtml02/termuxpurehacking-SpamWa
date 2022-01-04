@@ -15,7 +15,7 @@ $ pkg install git
 $ pkg install python2
 $ pip2 install requests
 $ git clone https://github.com/hackerhtml02/termuxpurehacking-SpamWa.git
-$ cd SpamWa
+$ cd termuxpurehacking-SpamWa
 $ python2 Wa.py
 ```
 
