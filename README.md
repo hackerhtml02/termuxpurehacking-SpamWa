@@ -21,8 +21,5 @@ $ python2 Wa.py
 
 # Info
 ```
-Creator : Mr.TamfanX
-Team : Shutdown Indo Team
-Instagram : mrtamfanx
-Email : anonymoussit36@gmail.com
+Creator : RDX_HARIS_HACKER
 ```
